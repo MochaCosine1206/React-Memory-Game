@@ -1,0 +1,9 @@
+.navbar {
+    color: white;
+    background-color: indigo;
+}
+
+
+a:active, a:hover {
+    color: white;
+}
