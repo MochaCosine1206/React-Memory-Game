@@ -2,7 +2,7 @@
   "name": "react-memory-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MochaCosine1206.github.io/React-Memory-Game",
+  "homepage": "https://mochacosine1206.github.io/React-Memory-Game",
   "dependencies": {
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
